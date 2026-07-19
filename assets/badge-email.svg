@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 40" width="300" height="40" role="img" aria-label="contacto@silvioduarte.com">
+  <rect width="300" height="40" rx="6" fill="#D14836"/>
+  <g transform="translate(14 13)" stroke="#ffffff" stroke-width="1.4" fill="none">
+    <rect x="0" y="0" width="20" height="14" rx="2"/>
+    <path d="M0 2 L10 9 L20 2"/>
+  </g>
+  <text x="168" y="26" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" font-size="14" letter-spacing="0.5" fill="#ffffff">CONTACTO@SILVIODUARTE.COM</text>
+</svg>

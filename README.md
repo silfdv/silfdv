@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Silvio%20Duarte&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Matem%C3%A1tico%20%C2%B7%20Consultor%20de%20TI%20y%20de%20IA&descSize=20&descAlignY=72" width="100%" alt="Silvio Duarte" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3200&pause=900&center=true&vCenter=true&width=620&color=2c5364&lines=Consultor+de+TI+y+de+IA;QA+%C2%B7+Infraestructura+%C2%B7+Business+Intelligence;Sistemas+que+funcionan+y+siguen+funcionando" alt="Typing" />
+<img src="assets/header.svg" width="100%" alt="Silvio Duarte · Matemático · Consultor de TI y de IA" />
 
 <br />
 
-[![Website](https://img.shields.io/badge/silvioduarte.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvioduarte.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/silvioduarte)
-[![Email](https://img.shields.io/badge/contacto@silvioduarte.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@silvioduarte.com)
+[<img src="assets/badge-web.svg" alt="silvioduarte.com" height="34" />](https://silvioduarte.com)
+[<img src="assets/badge-linkedin.svg" alt="LinkedIn" height="34" />](https://linkedin.com/in/silvioduarte)
+[<img src="assets/badge-email.svg" alt="contacto@silvioduarte.com" height="34" />](mailto:contacto@silvioduarte.com)
 
 📍 Managua, Nicaragua · 🇬🇧 [English version](./README.en.md)
 
@@ -46,7 +44,7 @@ Sistemas en producción, diseñados y construidos de punta a punta:
 
 ## 🧭 Cómo trabajo
 
-- **Cero dependencias innecesarias.** Varios de mis sistemas en producción corren sin Composer, sin npm y sin framework: menos superficie de ataque, migración trivial, años sin mantenimiento forzado.
+- **Cero dependencias innecesarias.** Varios de mis sistemas en producción corren sin Composer, sin npm y sin framework: menos superficie de ataque, migración trivial, años sin mantenimiento forzado. *(Este mismo perfil no llama a un solo servicio externo — todo lo visual vive en el repo.)*
 - **La seguridad viene de serie.** Hash PBKDF2, JWT firmados, archivos fuera del webroot, sanitización XSS. No es un parche, es el diseño.
 - **Documentación que alguien lee.** Cada sistema entrega README con arquitectura, guía de migración y changelog versionado.
 - **La IA es una herramienta, no una promesa.** La integro donde produce resultados medibles, y sé exactamente qué hace el código que firmo.
@@ -57,26 +55,17 @@ Sistemas en producción, diseñados y construidos de punta a punta:
 
 **Lenguajes & Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css,react,nextjs,tailwind,angular&perline=10" alt="Lenguajes y frontend" />
+<img src="assets/skills-1.svg" alt="TypeScript, JavaScript, PHP, Python, HTML, CSS, React, Next.js, Tailwind, AngularJS" />
 
 **Backend, datos & infraestructura**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,git,github,linux,vercel,wordpress,latex,vscode&perline=10" alt="Backend e infraestructura" />
+<img src="assets/skills-2.svg" alt="Node.js, MySQL, SQLite, Git, GitHub, Linux, Vercel, WordPress, LaTeX, VS Code" />
 
 </div>
 
 <br />
 
 **Además** · SQL Server (SSRS) · Excel avanzado (Power Query, VBA, macros) · PWA & Web Push · cPanel/WHM · DNS · 3CX · Fortinet · Mikrotik · Claude Code y flujos de trabajo con LLM en desarrollo, QA y análisis de datos
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=silfdv&show_icons=true&hide_border=true&theme=transparent&locale=es" height="160" alt="Estadísticas de GitHub" />
-<img src="https://streak-stats.demolab.com/?user=silfdv&hide_border=true&theme=transparent&locale=es" height="160" alt="Racha de contribuciones" />
-
-</div>
 
 ## 🏅 Reconocimientos
 
@@ -94,7 +83,7 @@ Sistemas en producción, diseñados y construidos de punta a punta:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 <sub>Silvio Duarte · Matemático · Consultor de IT y de IA</sub>
 

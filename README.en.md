@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Silvio%20Duarte&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Mathematician%20%C2%B7%20IT%20%26%20AI%20Consultant&descSize=20&descAlignY=72" width="100%" alt="Silvio Duarte" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3200&pause=900&center=true&vCenter=true&width=620&color=2c5364&lines=IT+%26+AI+Consultant;QA+%C2%B7+Infrastructure+%C2%B7+Business+Intelligence;Systems+that+work+and+keep+working" alt="Typing" />
+<img src="assets/header-en.svg" width="100%" alt="Silvio Duarte · Mathematician · IT & AI Consultant" />
 
 <br />
 
-[![Website](https://img.shields.io/badge/silvioduarte.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvioduarte.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/silvioduarte)
-[![Email](https://img.shields.io/badge/contacto@silvioduarte.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@silvioduarte.com)
+[<img src="assets/badge-web.svg" alt="silvioduarte.com" height="34" />](https://silvioduarte.com)
+[<img src="assets/badge-linkedin.svg" alt="LinkedIn" height="34" />](https://linkedin.com/in/silvioduarte)
+[<img src="assets/badge-email.svg" alt="contacto@silvioduarte.com" height="34" />](mailto:contacto@silvioduarte.com)
 
 📍 Managua, Nicaragua · 🇪🇸 [Versión en español](./README.md)
 
@@ -46,7 +44,7 @@ Production systems, designed and built end to end:
 
 ## 🧭 How I work
 
-- **Zero unnecessary dependencies.** Several of my production systems run without Composer, npm, or a framework: smaller attack surface, trivial migration, years without forced maintenance.
+- **Zero unnecessary dependencies.** Several of my production systems run without Composer, npm, or a framework: smaller attack surface, trivial migration, years without forced maintenance. *(This very profile doesn't call a single external service — everything visual lives in the repo.)*
 - **Security comes standard.** PBKDF2 hashing, signed JWTs, files outside the webroot, XSS sanitization. It's not a patch, it's the design.
 - **Documentation people actually read.** Every system ships with a README covering architecture, a migration guide, and a versioned changelog.
 - **AI is a tool, not a promise.** I integrate it where it produces measurable results, and I know exactly what the code I sign does.
@@ -57,26 +55,17 @@ Production systems, designed and built end to end:
 
 **Languages & Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css,react,nextjs,tailwind,angular&perline=10" alt="Languages and frontend" />
+<img src="assets/skills-1.svg" alt="TypeScript, JavaScript, PHP, Python, HTML, CSS, React, Next.js, Tailwind, AngularJS" />
 
 **Backend, data & infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,git,github,linux,vercel,wordpress,latex,vscode&perline=10" alt="Backend and infrastructure" />
+<img src="assets/skills-2.svg" alt="Node.js, MySQL, SQLite, Git, GitHub, Linux, Vercel, WordPress, LaTeX, VS Code" />
 
 </div>
 
 <br />
 
 **Also** · SQL Server (SSRS) · Advanced Excel (Power Query, VBA, macros) · PWA & Web Push · cPanel/WHM · DNS · 3CX · Fortinet · Mikrotik · Claude Code and LLM workflows for development, QA, and data analysis
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=silfdv&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=silfdv&hide_border=true&theme=transparent" height="160" alt="Contribution streak" />
-
-</div>
 
 ## 🏅 Honors
 
@@ -94,7 +83,7 @@ Got a platform to rescue, data that isn't telling you anything, or a project tha
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 <sub>Silvio Duarte · Mathematician · IT & AI Consultant</sub>
 

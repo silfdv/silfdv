@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 40" width="210" height="40" role="img" aria-label="silvioduarte.com">
+  <rect width="210" height="40" rx="6" fill="#1a1a2e"/>
+  <g transform="translate(20 20)" stroke="#ffffff" stroke-width="1.4" fill="none">
+    <circle cx="0" cy="0" r="8"/>
+    <ellipse cx="0" cy="0" rx="3.4" ry="8"/>
+    <line x1="-8" y1="0" x2="8" y2="0"/>
+  </g>
+  <text x="118" y="26" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" font-size="14" letter-spacing="1" fill="#ffffff">SILVIODUARTE.COM</text>
+</svg>
