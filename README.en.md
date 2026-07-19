@@ -20,7 +20,7 @@ I come from the math olympiad world: I won Nicaragua's national olympiad twice a
 
 That foundation took me into teaching (Jóvenes Talento Saturday Academy, training for Ministry of Education teachers, Data Analytics for public institutions), and later to a 10-year run directing **Fundación Uno's CODE project**, in alliance with **Harvard CS50x**: a program that trains **940+ students every year** in computer science, where I led functional QA for a team of **73 technical staff** under Harvard University standards.
 
-Today I work as an independent consultant. I rescue production platforms, audit security and performance, design infrastructure, and build data systems for companies that need results, not promises.
+Today I work as an independent consultant. I rescue production platforms, audit security and performance, design infrastructure, and build data systems for companies that depend on their technology working every day.
 
 ## 🛠️ What I do
 
@@ -44,10 +44,10 @@ Production systems, designed and built end to end:
 
 ## 🧭 How I work
 
-- **Zero unnecessary dependencies.** Several of my production systems run without Composer, npm, or a framework: smaller attack surface, trivial migration, years without forced maintenance. *(This very profile doesn't call a single external service — everything visual lives in the repo.)*
-- **Security comes standard.** PBKDF2 hashing, signed JWTs, files outside the webroot, XSS sanitization. It's not a patch, it's the design.
-- **Documentation people actually read.** Every system ships with a README covering architecture, a migration guide, and a versioned changelog.
-- **AI is a tool, not a promise.** I integrate it where it produces measurable results, and I know exactly what the code I sign does.
+- **Minimal dependencies.** Several of my production systems run without Composer, npm, or a framework. Fewer dependencies mean a smaller attack surface and a migration that comes down to copying files from one server to another. This GitHub profile consumes no external service either: the banner, icons, and badges are SVG files that live inside the repository.
+- **Security from the first commit.** I use PBKDF2 hashing for passwords, signed JWTs for sessions, sensitive files kept outside the webroot, and input sanitization against XSS. I define it in the project's initial architecture, before writing the business logic.
+- **Documentation with every delivery.** Every system I hand over includes its README with the architecture, a migration guide, and a versioned changelog, so someone else can pick up the project without depending on me.
+- **AI applied with judgment.** I use AI in the parts of the work where it speeds up concrete results, and I review every line of code that carries my name before signing off on it.
 
 ## 🧰 Stack
 

@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
   <defs>
-    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f2027"/>
-      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="0.55" stop-color="#203a43"/>
       <stop offset="1" stop-color="#2c5364"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="90" fill="url(#fbg)"/>
-  <g stroke="#4fd1c5" stroke-width="1.2" opacity="0.35" fill="none">
-    <path d="M0 60 L200 45 L360 62 L520 40 L680 60 L840 42 L1000 60 L1200 46"/>
-  </g>
-  <g fill="#38bdf8" opacity="0.5">
-    <circle cx="200" cy="45" r="3"/><circle cx="520" cy="40" r="3"/><circle cx="840" cy="42" r="3"/><circle cx="1200" cy="46" r="3"/>
-  </g>
+  <rect width="1200" height="130" fill="url(#fbg)"/>
+  <path d="M -720 60 Q -630.0 46.0 -540.0 60.0 Q -450.0 74.0 -360.0 60.0 Q -270.0 46.0 -180.0 60.0 Q -90.0 74.0 0.0 60.0 Q 90.0 46.0 180.0 60.0 Q 270.0 74.0 360.0 60.0 Q 450.0 46.0 540.0 60.0 Q 630.0 74.0 720.0 60.0 Q 810.0 46.0 900.0 60.0 Q 990.0 74.0 1080.0 60.0 Q 1170.0 46.0 1260.0 60.0 Q 1350.0 74.0 1440.0 60.0 Q 1530.0 46.0 1620.0 60.0 Q 1710.0 74.0 1800.0 60.0 Q 1890.0 46.0 1980.0 60.0 L 1920 130 L -720 130 Z" fill="#ffffff" opacity="0.05">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-360 0" dur="15s" repeatCount="indefinite"/>
+  </path>
+  <path d="M -600 74 Q -525.0 63.0 -450.0 74.0 Q -375.0 85.0 -300.0 74.0 Q -225.0 63.0 -150.0 74.0 Q -75.0 85.0 0.0 74.0 Q 75.0 63.0 150.0 74.0 Q 225.0 85.0 300.0 74.0 Q 375.0 63.0 450.0 74.0 Q 525.0 85.0 600.0 74.0 Q 675.0 63.0 750.0 74.0 Q 825.0 85.0 900.0 74.0 Q 975.0 63.0 1050.0 74.0 Q 1125.0 85.0 1200.0 74.0 Q 1275.0 63.0 1350.0 74.0 Q 1425.0 85.0 1500.0 74.0 Q 1575.0 63.0 1650.0 74.0 Q 1725.0 85.0 1800.0 74.0 L 1800 130 L -600 130 Z" fill="#4fd1c5" opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <path d="M -500 88 Q -437.5 79.0 -375.0 88.0 Q -312.5 97.0 -250.0 88.0 Q -187.5 79.0 -125.0 88.0 Q -62.5 97.0 0.0 88.0 Q 62.5 79.0 125.0 88.0 Q 187.5 97.0 250.0 88.0 Q 312.5 79.0 375.0 88.0 Q 437.5 97.0 500.0 88.0 Q 562.5 79.0 625.0 88.0 Q 687.5 97.0 750.0 88.0 Q 812.5 79.0 875.0 88.0 Q 937.5 97.0 1000.0 88.0 Q 1062.5 79.0 1125.0 88.0 Q 1187.5 97.0 1250.0 88.0 Q 1312.5 79.0 1375.0 88.0 Q 1437.5 97.0 1500.0 88.0 Q 1562.5 79.0 1625.0 88.0 Q 1687.5 97.0 1750.0 88.0 L 1700 130 L -500 130 Z" fill="#38bdf8" opacity="0.13">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-250 0" dur="8s" repeatCount="indefinite"/>
+  </path>
 </svg>

@@ -20,7 +20,7 @@ Vengo del mundo de las olimpiadas de matemática: gané dos veces la olimpiada n
 
 Esa base me llevó a la docencia (Academia Sabatina de Jóvenes Talento, capacitación a maestros del MINED, Data Analytics para instituciones públicas) y después a dirigir durante 10 años el proyecto **CODE de Fundación Uno**, en alianza con **Harvard CS50x**: un programa que forma a más de **940 estudiantes cada año** en ciencias de la computación, donde lideré el QA funcional de un equipo de **73 técnicos** bajo estándares de Harvard University.
 
-Hoy trabajo como consultor independiente. Rescato plataformas en producción, audito seguridad y rendimiento, diseño infraestructura y construyo sistemas de datos para empresas que necesitan resultados, no promesas.
+Hoy trabajo como consultor independiente. Rescato plataformas en producción, audito seguridad y rendimiento, diseño infraestructura y construyo sistemas de datos para empresas que dependen de que su tecnología funcione todos los días.
 
 ## 🛠️ Qué hago
 
@@ -44,10 +44,10 @@ Sistemas en producción, diseñados y construidos de punta a punta:
 
 ## 🧭 Cómo trabajo
 
-- **Cero dependencias innecesarias.** Varios de mis sistemas en producción corren sin Composer, sin npm y sin framework: menos superficie de ataque, migración trivial, años sin mantenimiento forzado. *(Este mismo perfil no llama a un solo servicio externo — todo lo visual vive en el repo.)*
-- **La seguridad viene de serie.** Hash PBKDF2, JWT firmados, archivos fuera del webroot, sanitización XSS. No es un parche, es el diseño.
-- **Documentación que alguien lee.** Cada sistema entrega README con arquitectura, guía de migración y changelog versionado.
-- **La IA es una herramienta, no una promesa.** La integro donde produce resultados medibles, y sé exactamente qué hace el código que firmo.
+- **Dependencias mínimas.** Varios de mis sistemas en producción funcionan sin Composer, sin npm y sin framework. Bajar la cantidad de dependencias reduce la superficie de ataque y hace que migrar el sistema sea prácticamente copiar archivos de un servidor a otro. Este mismo perfil de GitHub no consume ningún servicio externo: el banner, los iconos y los badges son archivos SVG que viven dentro del repositorio.
+- **Seguridad desde el primer commit.** Manejo hash PBKDF2 para las contraseñas, JWT firmados para las sesiones, archivos sensibles fuera del webroot y sanitización de entradas contra XSS. Lo defino en la arquitectura inicial del proyecto, antes de escribir la lógica de negocio.
+- **Documentación en cada entrega.** Todo sistema que entrego incluye su README con la arquitectura, la guía de migración y un changelog versionado, para que otra persona pueda tomar el proyecto sin depender de mí.
+- **IA aplicada con criterio.** Uso IA en las partes del trabajo donde acelera resultados concretos, y reviso a fondo cada línea de código que lleva mi firma antes de darla por buena.
 
 ## 🧰 Stack
 
